@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Volumes/Work/Workspace/Freelancer/Getjobber/Inspection/Phase1/Source_code/Avatar-Inspection/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Volumes/Work/Workspace/Freelancer/Getjobber/Inspection/Phase1/Source_code/Avatar-Inspection/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Volumes/Work/Workspace/Freelancer/Getjobber/Inspection/Phase1/Source_code/Avatar-Inspection/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Volumes/Work/Workspace/Freelancer/Getjobber/Inspection/Phase1/Source_code/Avatar-Inspection/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

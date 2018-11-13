@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Volumes/Work/Workspace/Freelancer/Getjobber/Inspection/Phase1/Source_code/Avatar-Inspection/android/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 87,
+                    "endOffset": 138
+                },
+                "from": {
+                    "file": "/Volumes/Work/Workspace/Freelancer/Getjobber/Inspection/Phase1/Source_code/Avatar-Inspection/android/app/build/generated/res/resValues/androidTest/debug/values/generated.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 157,
+                        "endColumn": 87,
+                        "endOffset": 240
+                    }
+                }
+            }
+        ]
+    }
+]
